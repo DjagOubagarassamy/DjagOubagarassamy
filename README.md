@@ -1,4 +1,4 @@
-## 🔭 I’m currently working on Deep Neural Networks which is kinda cool
+## 🔭 Currently working on Deep Neural Networks
 
 <!--
 **DjagOubagarassamy/DjagOubagarassamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
